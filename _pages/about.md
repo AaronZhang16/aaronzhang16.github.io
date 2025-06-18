@@ -30,19 +30,33 @@ My research interest includes **image restoration**, **image generation** and **
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC 2022</div><img src='images/PUB1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<<div class='paper-box'>
 
-[A Denoisable Super Resolution Method: A Way to Improve Structure from Motion's Performance against CMOS's Noise](https://https://ieeexplore.ieee.org/document/9945277)
+<div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE SMC 2022</div>
+      <img src='images/PUB1.png' alt="sym" width="50%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [A Denoisable Super Resolution Method: A Way to Improve Structure from Motion's Performance against CMOS's Noise](https://ieeexplore.ieee.org/document/9945277)  
+    **Kaihang Zhang**, Hajime Nobuhara
+  </div>
+</div>
 
-**Kaihang Zhang**, Hajime Nobuhara
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">JACIII Vol.28 No.6 pp. 1284-1298 (2024)</div>
+      <img src='images/PUB2.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [Adding Noise to Super-Resolution Training Set: Method to Denoise Super Resolution for Structure from Motion Preprocessing](https://www.fujipress.jp/jaciii/jc/jacii002800061284/)  
+    **Kaihang Zhang**, Hajime Nobuhara, Muhammad Haris
+  </div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> JACIII Vol.28 No.6 pp. 1284-1298 (2024)</div><img src='images/PUB2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Adding Noise to Super-Resolution Training Set: Method to Denoise Super Resolution for Structure from Motion Preprocessing](https://www.fujipress.jp/jaciii/jc/jacii002800061284/)
-
-**Kaihang Zhang**, Hajime Nobuhara, Muhammad Haris
 
 # 🎖 Honors and Awards
 
