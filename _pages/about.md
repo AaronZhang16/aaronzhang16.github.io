@@ -18,7 +18,7 @@ redirect_from:
 
 I am doing reserach on image processing, such as **super resolution**, **airflow's visualization based on Background Oriented Schlieren (BOS)** and **event camera**. You can check my works in the following part. Please feel free to contact me with kaihang816@gmail.com if you want an academic cooperation.
 
-I was born and grew up in Guangzhou, China. I graduated from School of Electronics and Information Technology (School of Microelectronics), Sun Yat-sen University (中山大学电子与信息工程学院) with a bachelor's degree. I went to Japan for further education from 2021 and graduated from Graduate School of Science and Technology, University of Tsukuba (筑波大学大学院システム情報工学研究群) with a master's degree, advised by Hajime Nobuhara ([延原肇](https://nobuharaken.com/hajime_nobuhara)). Now I am pursuing a Ph.D. in Computer Vision at the University of Tsukuba.
+I was born and grew up in Guangzhou, China. I graduated from School of Electronics and Information Technology (School of Microelectronics), Sun Yat-sen University (中山大学电子与信息工程学院) with a bachelor's degree. I went to Japan for further education from 2021 and graduated from Graduate School of Science and Technology, University of Tsukuba (筑波大学大学院システム情報工学研究群) with a master's degree, advised by Prof. Hajime Nobuhara ([延原肇](https://nobuharaken.com/hajime_nobuhara) 教授). Now I am pursuing a Ph.D. in Computer Vision at the University of Tsukuba.
 
 Beside my native language Chinese, I can speak both English and Japanese (JLPT N1 level).
 
