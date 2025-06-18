@@ -30,7 +30,7 @@ My research interest includes **image restoration**, **image generation** and **
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC 2022</div><img src='images/PUB1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC 2022</div><img src='images/PUB1.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Denoisable Super Resolution Method: A Way to Improve Structure from Motion's Performance against CMOS's Noise](https://https://ieeexplore.ieee.org/document/9945277)
