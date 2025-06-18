@@ -30,14 +30,13 @@ My research interest includes **image restoration**, **image generation** and **
 
 # 📝 Publications
 
-
-<!-- === 第1篇论文 === -->
+### Conference
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE SMC 2022</div>
-      <img src='images/PUB1.png' alt="sym" width="50%">
+      <img src='images/PUB1.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -46,7 +45,7 @@ My research interest includes **image restoration**, **image generation** and **
   </div>
 </div>
 
-<!-- === 第2篇论文 === -->
+### Journal
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -60,8 +59,6 @@ My research interest includes **image restoration**, **image generation** and **
   **Kaihang Zhang**, Hajime Nobuhara, Muhammad Haris
   </div>
 </div>
-
-
 
 # 🎖 Honors and Awards
 
