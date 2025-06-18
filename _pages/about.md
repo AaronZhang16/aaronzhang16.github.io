@@ -30,7 +30,12 @@ My research interest includes **image restoration**, **image generation** and **
 
 # 📝 Publications
 
+<<<<<<< HEAD
 <<div class='paper-box'>
+=======
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC 2022</div><img src='images/PUB1.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+>>>>>>> 80e137bc69fbce79e1144b0140d25fbd974487a6
 
 <div class='paper-box-image'>
     <div>
