@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kaihang ZHANG"
-description              : "Academic Introduction of Kaihang ZHANG "
+description              : "Focus on image processing and generation. Try to be an interesting man."
 repository               : "AaronZhang16/zhangkaihang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Kaihang ZHANG"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/avator.png"
   bio              : "University of Tsukuba"
   location         : "Tsukuba, Japan"
   employer         :
