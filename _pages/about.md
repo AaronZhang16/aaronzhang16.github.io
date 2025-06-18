@@ -30,6 +30,9 @@ My research interest includes **image restoration**, **image generation** and **
 
 # 📝 Publications
 
+
+<!-- === 第1篇论文 === -->
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -38,10 +41,12 @@ My research interest includes **image restoration**, **image generation** and **
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    [A Denoisable Super Resolution Method: A Way to Improve Structure from Motion's Performance against CMOS's Noise](https://ieeexplore.ieee.org/document/9945277)  
-    **Kaihang Zhang**, Hajime Nobuhara
+  [A Denoisable Super Resolution Method: A Way to Improve Structure from Motion's Performance against CMOS's Noise](https://ieeexplore.ieee.org/document/9945277)  
+  **Kaihang Zhang**, Hajime Nobuhara
   </div>
 </div>
+
+<!-- === 第2篇论文 === -->
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -51,10 +56,11 @@ My research interest includes **image restoration**, **image generation** and **
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    [Adding Noise to Super-Resolution Training Set: Method to Denoise Super Resolution for Structure from Motion Preprocessing](https://www.fujipress.jp/jaciii/jc/jacii002800061284/)  
-    **Kaihang Zhang**, Hajime Nobuhara, Muhammad Haris
+  [Adding Noise to Super-Resolution Training Set: Method to Denoise Super Resolution for Structure from Motion Preprocessing](https://www.fujipress.jp/jaciii/jc/jacii002800061284/)  
+  **Kaihang Zhang**, Hajime Nobuhara, Muhammad Haris
   </div>
 </div>
+
 
 
 # 🎖 Honors and Awards
