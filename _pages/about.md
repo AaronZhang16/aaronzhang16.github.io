@@ -72,11 +72,11 @@ My research interest includes **image restoration**, **image generation** and **
 
 # 💬 Research Projects
 
-- *2023.09 - 2024.03*　筑波大学　令和5年度 システム情報工学研究群　若手研究者育成プログラム　画像処理手法によりドローンのダウンウォッシュ気流を可視化する方法　**研究代表者**
-- *2023.11 - 2026.03*　筑波大学　戦略的スマート農業技術の開発・改良　[「AIを活用したスマート除草システムの開発」](https://www.naro.go.jp/laboratory/brain/smart-nogyo/theme/files/SA1-415G1.pdf)
+- *2023.09 - 2024.03*　2023 Young Researcher Training Program for the Degree Programs in Systems and Information Engineering / Graduate School of Systems and Information Engineering, University of Tsukuba (筑波大学　令和5年度 システム情報工学研究群　若手研究者育成プログラム　画像処理手法によりドローンのダウンウォッシュ気流を可視化する方法　**研究代表者**)
+- *2023.11 - 2026.03*　"Development of a smart weeding system using AI", Development and improvement of strategic smart agricultural technologies, University of Tsukuba　(筑波大学　戦略的スマート農業技術の開発・改良　[「AIを活用したスマート除草システムの開発」](https://www.naro.go.jp/laboratory/brain/smart-nogyo/theme/files/SA1-415G1.pdf))
 
 # 💻 Work Experience
 
-- *2022.06 - 2023.02*, 株式会社東亜産業(TOA Industry Co.,Ltd.)　研究開発部
-- *2023.11 - 2024.03*, Research Assistant, Ibaraki University (茨城大学)
-- *2023.11 - 2026.03*, Research Assistant, University of Tsukuba (筑波大学)
+- *2022.06 - 2023.02*, TOA Industry Co.,Ltd. R&D (株式会社東亜産業　研究開発部)
+- *2023.11 - 2024.03*, Research Assistant, Ibaraki University (茨城大学　リサーチアシスタント)
+- *2023.11 - 2026.03*, Research Assistant, University of Tsukuba (筑波大学　リサーチアシスタント)
