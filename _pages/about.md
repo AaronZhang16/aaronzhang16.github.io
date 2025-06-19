@@ -72,8 +72,9 @@ My research interest includes **image restoration**, **image generation** and **
 
 # 💬 Research Projects
 
-- *2023.09 - 2024.03*　2023 Young Researcher Training Program for the Degree Programs in Systems and Information Engineering / Graduate School of Systems and Information Engineering, University of Tsukuba (筑波大学　令和5年度 システム情報工学研究群　若手研究者育成プログラム　画像処理手法によりドローンのダウンウォッシュ気流を可視化する方法　**研究代表者**)
+- *2023.09 - 2024.03*　2023 Young Researcher Training Program for the Degree Programs in Systems and Information Engineering / Graduate School of Systems and Information Engineering, University of Tsukuba (筑波大学　令和5年度 システム情報工学研究群　[若手研究者育成プログラム](https://www.sie.tsukuba.ac.jp/edu/re_program)　画像処理手法によりドローンのダウンウォッシュ気流を可視化する方法　**研究代表者**)
 - *2023.11 - 2026.03*　"Development of a smart weeding system using AI", Development and improvement of strategic smart agricultural technologies, University of Tsukuba　(筑波大学　戦略的スマート農業技術の開発・改良　[「AIを活用したスマート除草システムの開発」](https://www.naro.go.jp/laboratory/brain/smart-nogyo/theme/files/SA1-415G1.pdf))
+- *2024.4-2026.3* [Support for Pioneering Research Initiated by the Next Generation (SPRING)](https://www.jst.go.jp/jisedai/spring/en/index.html), JST (次世代研究者挑戦的研究プログラム、科学技術振興機構)
 
 # 💻 Work Experience
 
