@@ -26,7 +26,7 @@ My research interest includes **image restoration**, **image generation** and **
 
 # 🔥 News
 
-- (no news for the time being)
+- Our regular paper "Observing Colorless, Transparent, High-speed Airflow: Using Event Camera to Improve Schlieren Airflow Visualization Method" is accepted by SICE FES 2025.
 
 # 📝 Publications
 
