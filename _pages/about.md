@@ -53,7 +53,7 @@ My research interest includes **image restoration**, **image generation** and **
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  [Observing Colorless, Transparent, High-Speed Airflow: Using Event Camera to Improve Schlieren Airflow Visualization Method](https://https://ieeexplore.ieee.org/document/11236636)  
+  [Observing Colorless, Transparent, High-Speed Airflow: Using Event Camera to Improve Schlieren Airflow Visualization Method](https://ieeexplore.ieee.org/document/11236636)  
   **Kaihang Zhang**, Xingzhen Song, Hajime Nobuhara 
   </div>
 </div>
