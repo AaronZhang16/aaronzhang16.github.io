@@ -45,6 +45,19 @@ My research interest includes **image restoration**, **image generation** and **
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">SICE FES 2025</div>
+      <img src='images/Figure3_2.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Observing Colorless, Transparent, High-Speed Airflow: Using Event Camera to Improve Schlieren Airflow Visualization Method](https://https://ieeexplore.ieee.org/document/11236636)  
+  **Kaihang Zhang**, Xingzhen Song, Hajime Nobuhara 
+  </div>
+</div>
+
 ### Journal
 
 <div class='paper-box'>
