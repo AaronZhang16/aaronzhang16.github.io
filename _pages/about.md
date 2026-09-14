@@ -74,6 +74,7 @@ This study explores the visualization of transparent, rapidly changing airflow b
     <div>
       <div class="badge">JACIII Vol.28 No.6 pp. 1284-1298 (2024)</div>
       <img src='images/PUB2.png' alt="sym" width="100%">
+      <img src="images/SR_2.gif" alt="Animated comparison of 3D reconstructions without super-resolution, with conventional super-resolution, and with An-Ds and Ds-An super-resolution" width="100%" style="display: block; margin-top: 1.5em;">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
