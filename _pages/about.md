@@ -42,8 +42,12 @@ My research interest includes **image restoration**, **image generation** and **
   <div class='paper-box-text' markdown="1">
   [A Denoisable Super Resolution Method: A Way to Improve Structure from Motion's Performance against CMOS's Noise](https://ieeexplore.ieee.org/document/9945277)  
   **Kaihang Zhang**, Hajime Nobuhara
-  </div>
+
+This study addresses the effects of low image resolution and CMOS sensor noise on Structure from Motion (SfM) reconstruction. We propose two training strategies, Add Noise before Downsampling (An-Ds) and Downsampling before Adding Noise (Ds-An), that selectively introduce noise extracted from real photographs into super-resolution training images. Without changing the network architecture, these strategies enable simultaneous resolution enhancement and denoising. Experiments with SRCNN and EDSR show improved restoration of noisy images, while EDSR largely preserves its performance on clean images. 
+
 </div>
+</div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -54,9 +58,13 @@ My research interest includes **image restoration**, **image generation** and **
   </div>
   <div class='paper-box-text' markdown="1">
   [Observing Colorless, Transparent, High-Speed Airflow: Using Event Camera to Improve Schlieren Airflow Visualization Method](https://ieeexplore.ieee.org/document/11236636)  
-  **Kaihang Zhang**, Xingzhen Song, Hajime Nobuhara 
-  </div>
+  **Kaihang Zhang**, Xingzhen Song, Hajime Nobuhara
+
+This study explores the visualization of transparent, rapidly changing airflow by combining an event camera with a conventional frame camera for background-oriented schlieren (BOS) imaging. A beam splitter and synchronization workflow provide aligned images and event data. We introduce BOS U-Net to generate a BOS image at a specified time from an input frame and the corresponding events, and construct a dataset containing 5,464 frames and 2,732 event samples for training and evaluation. An airflow attention strategy gives greater weight to weak airflow signals during training. Experiments demonstrate the feasibility of this approach, although recovering fine airflow structures remains challenging and requires further improvement.
+
 </div>
+</div>
+
 
 ### Journal
 
@@ -70,8 +78,12 @@ My research interest includes **image restoration**, **image generation** and **
   <div class='paper-box-text' markdown="1">
   [Adding Noise to Super-Resolution Training Set: Method to Denoise Super Resolution for Structure from Motion Preprocessing](https://www.fujipress.jp/jaciii/jc/jacii002800061284/)  
   **Kaihang Zhang**, Hajime Nobuhara, Muhammad Haris
-  </div>
+
+Extending our earlier work, this study investigates noise-aware super-resolution training as a preprocessing step for Structure from Motion (SfM). Two strategies introduce real-world noise before or after downsampling, enabling existing networks to enhance resolution and suppress noise without architectural changes. We evaluate the approach with SRCNN, EDSR, RCAN, and ESRT to examine its applicability across different network designs. The results show improved restoration of noisy images while largely retaining performance on clean images. In SfM experiments, mean reprojection error decreases by up to 27% and the number of densified 3D points increases by up to 310% relative to reconstruction without preprocessing, yielding more complete 3D models.
+
 </div>
+</div>
+
 
 # 🎖 Honors and Awards
 
