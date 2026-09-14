@@ -37,6 +37,7 @@ My research interest includes **image restoration**, **image generation** and **
     <div>
       <div class="badge">IEEE SMC 2022</div>
       <img src='images/PUB1.png' alt="sym" width="100%">
+      <img src="images/SR_1.png" alt="Schematic illustration for the IEEE SMC 2022 denoisable super-resolution method" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
