@@ -103,7 +103,7 @@ Extending our earlier work, this study investigates noise-aware super-resolution
 
 # 💻 Work Experience
 
-- *2022.06 - 2023.02*, TOA Industry Co.,Ltd. R&D (株式会社東亜産業　研究開発部)
+- *2022.06 - 2023.02*, Engineer, TOA Industry Co.,Ltd. R&D (株式会社東亜産業　研究開発部　開発エンジニア(アルバイト))
 - *2023.11 - 2024.03*, Research Assistant, Ibaraki University (茨城大学　リサーチアシスタント)
 - *2023.11 - 2026.03*, Research Assistant, University of Tsukuba (筑波大学　リサーチアシスタント)
-- 2026.07 - 2026.09, Machine Learning Engineer (Intern), Akari.Inc, DX Solution (燈株式会社　DX Solution)
+- 2026.07 - 2026.09, Machine Learning Engineer (Intern), Akari.Inc, DX Solution (燈株式会社　DX Solution　機械学習エンジニア(インターン))
