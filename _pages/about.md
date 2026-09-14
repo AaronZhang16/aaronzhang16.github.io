@@ -37,7 +37,6 @@ My research interest includes **Deep Learning**, **AI**, **image restoration**, 
     <div>
       <div class="badge">IEEE SMC 2022</div>
       <img src='images/PUB1.png' alt="sym" width="100%">
-      <img src="images/SR_1.png" alt="Schematic illustration for the IEEE SMC 2022 denoisable super-resolution method" width="100%" style="display: block; margin-top: 1.5em;">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -74,7 +73,6 @@ This study explores the visualization of transparent, rapidly changing airflow b
     <div>
       <div class="badge">JACIII Vol.28 No.6 pp. 1284-1298 (2024)</div>
       <img src='images/PUB2.png' alt="sym" width="100%">
-      <img src="images/SR_2.gif" alt="Animated comparison of 3D reconstructions without super-resolution, with conventional super-resolution, and with An-Ds and Ds-An super-resolution" width="100%" style="display: block; margin-top: 1.5em;">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -93,8 +91,8 @@ Extending our earlier work, this study investigates noise-aware super-resolution
 
 # 📖 Educations
 
-- *2023.04 - 2026.03 (now)*, Graduate School of Science and Technology, University of Tsukuba ((筑波大学大学院システム情報工学研究群　知能機能システム学位プログラム)
-- *2021.04 - 2023.03*, Graduate School of Science and Technology, University of Tsukuba (Master) (筑波大学大学院システム情報工学研究群　知能機能システム学位プログラム　修士卒業)
+- *2023.04 - 2026.03*, Graduate School of Science and Technology, University of Tsukuba (Ph.D. of Engineering) (筑波大学大学院システム情報工学研究群　知能機能システム学位プログラム　工学博士)
+- *2021.04 - 2023.03*, Graduate School of Science and Technology, University of Tsukuba (Master) (筑波大学大学院システム情報工学研究群　知能機能システム学位プログラム　工学修士)
 - *2015.09 - 2019.06*, School of Electronics and Information Technology (School of Microelectronics), Sun Yat-sen University (Bachelor). (中山大学电子与信息工程学院，学士)
 
 # 💬 Research Projects
