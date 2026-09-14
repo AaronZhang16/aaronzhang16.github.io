@@ -55,6 +55,10 @@ This study addresses the effects of low image resolution and CMOS sensor noise o
     <div>
       <div class="badge">SICE FES 2025</div>
       <img src='images/Figure3_2.jpg' alt="sym" width="100%">
+      <video controls playsinline preload="metadata" aria-label="BOS airflow visualization demonstration" style="display: block; width: 100%; margin-top: 1.5em;">
+        <source src="images/BOS_1.mp4" type="video/mp4">
+        Your browser does not support embedded video.
+      </video>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
