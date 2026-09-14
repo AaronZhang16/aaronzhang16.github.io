@@ -22,7 +22,7 @@ I was born and grew up in Guangzhou, China. I graduated from School of Electroni
 
 Beside my native language Chinese, I can speak both English and Japanese (JLPT N1 level).
 
-My research interest includes **Deep Learning**, **AI**, **image restoration**, **image generation** and **evenet camera**.
+My research interest includes **Deep Learning**, **AI**, **Image Restoration**, **Image Generation** and **Event Camera**.
 
 # 🔥 News
 
