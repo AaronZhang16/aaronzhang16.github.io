@@ -22,7 +22,7 @@ I was born and grew up in Guangzhou, China. I graduated from School of Electroni
 
 Beside my native language Chinese, I can speak both English and Japanese (JLPT N1 level).
 
-My research interest includes **image restoration**, **image generation** and **evenet camera**.
+My research interest includes **Deep Learning**, **AI**, **image restoration**, **image generation** and **evenet camera**.
 
 # 🔥 News
 
@@ -37,14 +37,13 @@ My research interest includes **image restoration**, **image generation** and **
     <div>
       <div class="badge">IEEE SMC 2022</div>
       <img src='images/PUB1.png' alt="sym" width="100%">
-      <img src="images/SR_1.png" alt="Schematic illustration for the IEEE SMC 2022 denoisable super-resolution method" width="100%" style="display: block; margin-top: 1.5em;">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
   [A Denoisable Super Resolution Method: A Way to Improve Structure from Motion's Performance against CMOS's Noise](https://ieeexplore.ieee.org/document/9945277)  
   **Kaihang Zhang**, Hajime Nobuhara
 
-This study addresses the effects of low image resolution and CMOS sensor noise on Structure from Motion (SfM) reconstruction. We propose two training strategies, Add Noise before Downsampling (An-Ds) and Downsampling before Adding Noise (Ds-An), that selectively introduce noise extracted from real photographs into super-resolution training images. Without changing the network architecture, these strategies enable simultaneous resolution enhancement and denoising. Experiments with SRCNN and EDSR show improved restoration of noisy images, while EDSR largely preserves its performance on clean images. 
+This study addresses the effects of low image resolution and CMOS sensor noise on Structure from Motion (SfM) reconstruction. We propose two training strategies, Add Noise before Downsampling (An-Ds) and Downsampling before Adding Noise (Ds-An), that selectively introduce noise extracted from real photographs into super-resolution training images. Without changing the network architecture, these strategies enable simultaneous resolution enhancement and denoising. Experiments with SRCNN and EDSR show improved restoration of noisy images, while EDSR largely preserves its performance on clean images.
 
 </div>
 </div>
@@ -74,7 +73,6 @@ This study explores the visualization of transparent, rapidly changing airflow b
     <div>
       <div class="badge">JACIII Vol.28 No.6 pp. 1284-1298 (2024)</div>
       <img src='images/PUB2.png' alt="sym" width="100%">
-      <img src="images/SR_2.gif" alt="Animated comparison of 3D reconstructions without super-resolution, with conventional super-resolution, and with An-Ds and Ds-An super-resolution" width="100%" style="display: block; margin-top: 1.5em;">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -108,3 +106,4 @@ Extending our earlier work, this study investigates noise-aware super-resolution
 - *2022.06 - 2023.02*, TOA Industry Co.,Ltd. R&D (株式会社東亜産業　研究開発部)
 - *2023.11 - 2024.03*, Research Assistant, Ibaraki University (茨城大学　リサーチアシスタント)
 - *2023.11 - 2026.03*, Research Assistant, University of Tsukuba (筑波大学　リサーチアシスタント)
+- 2026.07 - 2026.09, Machine Learning Engineer (Intern), Akari.Inc, DX Solution (燈株式会社　DX Solution)
