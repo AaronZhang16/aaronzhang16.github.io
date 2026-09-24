@@ -26,6 +26,7 @@ My research interest includes **Deep Learning**, **AI**, **Image Restoration**, 
 
 # 🔥 News
 
+- Our new work on event camera has been submitted to WACV 2027.
 - I received my Ph.D. of Engineering degree from the University of Tsukuba in March, 2026.
 
 # 📝 Publications
